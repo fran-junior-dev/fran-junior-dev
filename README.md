@@ -9,7 +9,7 @@
 
 ###
 
-![pc-gif](https://github.com/user-attachments/assets/5e916947-5076-4402-b9dd-85d37d5a7a6d)
+![pc-gif](https://github.com/user-attachments/assets/5e916947-5076-4402-b9dd-85d37d5a7a6d =250x250)
 
 ###
 
