@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fran-junior-dev/fran-junior-dev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/fran-junior-dev/fran-junior-dev/snake.svg" alt="Snake animation" />
 
 ###
